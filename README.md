@@ -38,7 +38,7 @@ It interacts with the user via the command line, prompting for input numbers and
 
 ## Files Included
 
-- `calculator.py` – The main script file containing the implementation.
+- `SimpleCalculator.py` – The main script file containing the implementation.
 - `README.md` – This documentation file explaining the purpose and usage of the calculator.
 
 ---
